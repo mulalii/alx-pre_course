@@ -1,2 +1,1 @@
-non readme
-she funny as freek
+Updated readme
