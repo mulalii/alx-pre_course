@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-echo "ALX School is so cool!" > bash/alx
+#!/bin/bash<<<<<<< HEAD
+echo "ALX School" > bash/alx
 emacs bash/alx
 echo echo ALX School is so cool! > bash/alx
 x
